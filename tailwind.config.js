@@ -18,6 +18,8 @@ export default {
         darkColor: '#ffffff',
         background: '#ffffff',
         darkBackground: '#0D0D0D',
+        'light': '#D7D7D7',
+        'dark': '#3A3A3A',
       },
       screens: {
         'sm': '640px',
